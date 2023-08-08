@@ -12,6 +12,7 @@
 #' | `pkg_ver`        | Packages with specific version.                     |
 #' | `ver`            | Version corresponding to packages in `pkg_ver`.     |
 #' | `ignore`         | Items to add to `.Rbuildignore`.                    |
+#' | `license`        | Options are `"mit"`, `"gpl3"`, or `NULL`            |
 #'
 
 project <- "lib-2020-2029-article"
@@ -29,6 +30,8 @@ pkg_ver <- c()
 ver <- c()
 
 ignore <- NULL
+
+license <- NULL
 
 git_user <- "ijapesigan"
 git_email <- "learn.ijapesigan@gmail.com"
