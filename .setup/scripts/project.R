@@ -17,7 +17,9 @@
 
 project <- "lib-2020-2029-article"
 
-pkg_cran <- c()
+pkg_cran <- c(
+  "RefManageR"
+)
 
 pkg_github <- c(
   "ijapesigan/rProject"
