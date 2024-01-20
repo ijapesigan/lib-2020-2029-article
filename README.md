@@ -56,6 +56,14 @@ bootstrapping is appropriate). *Behavior Research Methods*, *55*(2),
 
 </div>
 
+<div id="ref-Georgeson-AlvarezBartolo-MacKinnon-2023" class="csl-entry">
+
+Georgeson, A. R., Alvarez-Bartolo, D., & MacKinnon, D. P. (2023). A
+sensitivity analysis for temporal bias in cross-sectional mediation.
+*Psychological Methods*. <https://doi.org/10.1037/met0000628>
+
+</div>
+
 <div id="ref-Li-Oravecz-Zhou-etal-2022" class="csl-entry">
 
 Li, Y., Oravecz, Z., Zhou, S., Bodovski, Y., Barnett, I. J., Chi, G.,
