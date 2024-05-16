@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-2020-2029-article/actions/workflows/she
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-entry-spacing="0" line-spacing="2">
+line-spacing="2">
 
 <div id="ref-Adolf-Loossens-Tuerlinckx-etal-2021" class="csl-entry">
 
@@ -287,6 +287,15 @@ Pesigan, I. J. A., Sun, R. W., & Cheung, S. F. (2023).
 <span class="nocase">betaSandwich</span>: Confidence intervals for
 standardized regression coefficients in R. *Multivariate Behavioral
 Research*, 1–4. <https://doi.org/10.1080/00273171.2023.2201277>
+
+</div>
+
+<div id="ref-Rhemtulla-vanBork-Borsboom-2020" class="csl-entry">
+
+Rhemtulla, M., van Bork, R., & Borsboom, D. (2020). Worse than
+measurement error: Consequences of inappropriate latent variable
+measurement models. *Psychological Methods*, *25*(1), 30–45.
+<https://doi.org/10.1037/met0000220>
 
 </div>
 
