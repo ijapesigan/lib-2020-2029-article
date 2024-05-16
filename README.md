@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-02-21
+2024-05-16
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -129,6 +129,35 @@ Gunn, R. L., Steingrimsson, J. A., Merrill, J. E., Souza, T., & Barnett,
 N. (2021). Characterising patterns of alcohol use among heavy drinkers:
 A cluster analysis utilising alcohol biosensor data. *Drug and Alcohol
 Review*, *40*(7), 1155–1164. <https://doi.org/10.1111/dar.13306>
+
+</div>
+
+<div id="ref-Hecht-Zitzmann-2020a" class="csl-entry">
+
+Hecht, M., & Zitzmann, S. (2020a). A computationally more efficient
+Bayesian approach for estimating continuous-time models. *Structural
+Equation Modeling: A Multidisciplinary Journal*, *27*(6), 829–840.
+<https://doi.org/10.1080/10705511.2020.1719107>
+
+</div>
+
+<div id="ref-Hecht-Zitzmann-2020b" class="csl-entry">
+
+Hecht, M., & Zitzmann, S. (2020b). Sample size recommendations for
+continuous-time models: Compensating shorter time series with larger
+numbers of persons and vice versa. *Structural Equation Modeling: A
+Multidisciplinary Journal*, *28*(2), 229–236.
+<https://doi.org/10.1080/10705511.2020.1779069>
+
+</div>
+
+<div id="ref-Hecht-Zitzmann-2021" class="csl-entry">
+
+Hecht, M., & Zitzmann, S. (2021). Exploring the unfolding of dynamic
+effects with continuous-time models: Recommendations concerning
+statistical power to detect peak cross-lagged effects. *Structural
+Equation Modeling: A Multidisciplinary Journal*, *28*(6), 894–902.
+<https://doi.org/10.1080/10705511.2021.1914627>
 
 </div>
 
