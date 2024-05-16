@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-2020-2029-article/actions/workflows/she
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-entry-spacing="0" line-spacing="2">
+line-spacing="2">
 
 <div id="ref-Adolf-Loossens-Tuerlinckx-etal-2021" class="csl-entry">
 
