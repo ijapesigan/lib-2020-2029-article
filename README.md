@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-16
+2024-05-22
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -353,6 +353,15 @@ Savalei, V., & Rosseel, Y. (2021). Computational options for standard
 errors and test statistics with incomplete normal and nonnormal data in
 SEM. *Structural Equation Modeling: A Multidisciplinary Journal*,
 *29*(2), 163–181. <https://doi.org/10.1080/10705511.2021.1877548>
+
+</div>
+
+<div id="ref-Shaygan-Karami-2020" class="csl-entry">
+
+Shaygan, M., & Karami, Z. (2020). Chronic pain in adolescents:
+Predicting role of emotional intelligence, self-esteem and parenting
+style. *International Journal of Community Based Nursing & Midwifery*,
+*8*. <https://doi.org/10.30476/ijcbnm.2020.83153.1129>
 
 </div>
 
