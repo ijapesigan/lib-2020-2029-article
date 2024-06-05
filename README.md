@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-22
+2024-06-05
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -371,6 +371,16 @@ Tofighi, D., & Kelley, K. (2020). Improved inference in mediation
 analysis: Introducing the model-based constrained optimization
 procedure. *Psychological Methods*, *25*, 496–515.
 <https://doi.org/10.1037/met0000259>
+
+</div>
+
+<div id="ref-Usami-2020" class="csl-entry">
+
+Usami, S. (2020). On the differences between general cross-lagged panel
+model and random-intercept cross-lagged panel model: Interpretation of
+cross-lagged parameters and model choice. *Structural Equation Modeling:
+A Multidisciplinary Journal*, *28*(3), 331–344.
+<https://doi.org/10.1080/10705511.2020.1821690>
 
 </div>
 
