@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-06-05
+2024-06-13
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -49,7 +49,8 @@ standardized units. *Health Psychology*, *41*(7), 502–505.
 Cheung, S. F., & Pesigan, I. J. A. (2023a). FINDOUT: Using either SPSS
 commands or graphical user interface to identify influential cases in
 structural equation modeling in AMOS. *Multivariate Behavioral
-Research*, 1–5. <https://doi.org/10.1080/00273171.2022.2148089>
+Research*, *58*(5), 964–968.
+<https://doi.org/10.1080/00273171.2022.2148089>
 
 </div>
 
@@ -59,8 +60,8 @@ Cheung, S. F., & Pesigan, I. J. A. (2023b).
 <span class="nocase">semlbci</span>: An R package for forming
 likelihood-based confidence intervals for parameter estimates,
 correlations, indirect effects, and other derived parameters.
-*Structural Equation Modeling: A Multidisciplinary Journal*, 1–15.
-<https://doi.org/10.1080/10705511.2023.2183860>
+*Structural Equation Modeling: A Multidisciplinary Journal*, *30*(6),
+985–999. <https://doi.org/10.1080/10705511.2023.2183860>
 
 </div>
 
@@ -88,7 +89,7 @@ ecological momentary assessment. *Psychology of Addictive Behaviors*,
 Didier, N. A., King, A. C., Polley, E. C., & Fridberg, D. J. (2023).
 Signal processing and machine learning with transdermal alcohol
 concentration to predict natural environment alcohol consumption.
-*Experimental and Clinical Psychopharmacology*.
+*Experimental and Clinical Psychopharmacology*, *32*(2), 245–254.
 <https://doi.org/10.1037/pha0000683>
 
 </div>
@@ -241,7 +242,7 @@ and applications for containerisation with R. *The R Journal*, *12*(1),
 
 Park, J. J., Chow, S.-M., Epskamp, S., & Molenaar, P. C. M. (2023).
 Subgrouping with chain graphical VAR models. *Multivariate Behavioral
-Research*.
+Research*, 1–23. <https://doi.org/10.1080/00273171.2023.2289058>
 
 </div>
 
@@ -276,7 +277,8 @@ nonnormality, under certain conditions. *Frontiers in Psychology*, *11*.
 
 Pesigan, I. J. A., & Cheung, S. F. (2023). Monte Carlo confidence
 intervals for the indirect effect with missing data. *Behavior Research
-Methods*. <https://doi.org/10.3758/s13428-023-02114-4>
+Methods*, *56*(3), 1678–1696.
+<https://doi.org/10.3758/s13428-023-02114-4>
 
 </div>
 
@@ -286,7 +288,8 @@ Pesigan, I. J. A., Sun, R. W., & Cheung, S. F. (2023).
 <span class="nocase">betaDelta</span> and
 <span class="nocase">betaSandwich</span>: Confidence intervals for
 standardized regression coefficients in R. *Multivariate Behavioral
-Research*, 1–4. <https://doi.org/10.1080/00273171.2023.2201277>
+Research*, *58*(6), 1183–1186.
+<https://doi.org/10.1080/00273171.2023.2201277>
 
 </div>
 
@@ -325,7 +328,8 @@ Russell, M. A., Smyth, J. M., Turrisi, R., & Rodriguez, G. C. (2023).
 Baseline protective behavioral strategy use predicts more moderate
 transdermal alcohol concentration dynamics and fewer negative
 consequences of drinking in young adults’ natural settings. *Psychology
-of Addictive Behaviors*. <https://doi.org/10.1037/adb0000941>
+of Addictive Behaviors*, *38*(3), 347–359.
+<https://doi.org/10.1037/adb0000941>
 
 </div>
 
