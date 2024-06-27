@@ -1,10 +1,9 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-06-24
+2024-06-27
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -225,6 +224,14 @@ structural equation models for intensive longitudinal data in Mplus.
 
 McNeish, D., & MacKinnon, D. P. (2022). Intensive longitudinal mediation
 in Mplus. *Psychological Methods*. <https://doi.org/10.1037/met0000536>
+
+</div>
+
+<div id="ref-Muthen-Asparouhov-2022" class="csl-entry">
+
+Muth’en, B., & Asparouhov, T. (2022). Latent transition analysis with
+random intercepts (RI-LTA). *Psychological Methods*, *27*(1), 1–16.
+<https://doi.org/10.1037/met0000370>
 
 </div>
 
