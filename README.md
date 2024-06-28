@@ -1,10 +1,9 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-06-27
+2024-06-28
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -394,6 +393,17 @@ model and random-intercept cross-lagged panel model: Interpretation of
 cross-lagged parameters and model choice. *Structural Equation Modeling:
 A Multidisciplinary Journal*, *28*(3), 331–344.
 <https://doi.org/10.1080/10705511.2020.1821690>
+
+</div>
+
+<div id="ref-vanEgmond-Wright-Livingston-etal-2020" class="csl-entry">
+
+van Egmond, K., Wright, C. J. C., Livingston, M., & Kuntsche, E. (2020).
+Wearable transdermal alcohol monitors: A systematic review of detection
+validity, and relationship between transdermal and breath alcohol
+concentration and influencing factors. *Alcoholism: Clinical and
+Experimental Research*, *44*(10), 1918–1932.
+<https://doi.org/10.1111/acer.14432>
 
 </div>
 
