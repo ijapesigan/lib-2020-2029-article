@@ -1,10 +1,9 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-07-08
+2024-07-14
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -134,6 +133,15 @@ Review*, *40*(7), 1155–1164. <https://doi.org/10.1111/dar.13306>
 
 </div>
 
+<div id="ref-Hamaker-Muthen-2020" class="csl-entry">
+
+Hamaker, E. L., & Muth’en, B. (2020). The fixed versus random effects
+debate and how it relates to centering in multilevel modeling.
+*Psychological Methods*, *25*(3), 365–379.
+<https://doi.org/10.1037/met0000239>
+
+</div>
+
 <div id="ref-Hecht-Zitzmann-2020a" class="csl-entry">
 
 Hecht, M., & Zitzmann, S. (2020a). A computationally more efficient
@@ -244,6 +252,15 @@ S., Marwick, B., Nolis, H., Nolis, J., Ooi, H., Ram, K., Ross, N.,
 Shepherd, L., S’olymos, P., … Xiao, N. (2020). The Rockerverse: Packages
 and applications for containerisation with R. *The R Journal*, *12*(1),
 437. <https://doi.org/10.32614/rj-2020-007>
+
+</div>
+
+<div id="ref-Orth-Clark-Donnellan-etal-2021" class="csl-entry">
+
+Orth, U., Clark, D. A., Donnellan, M. B., & Robins, R. W. (2021).
+Testing prospective effects in longitudinal research: Comparing seven
+competing cross-lagged models. *Journal of Personality and Social
+Psychology*, *120*(4), 1013–1034. <https://doi.org/10.1037/pspp0000358>
 
 </div>
 
@@ -394,6 +411,15 @@ model and random-intercept cross-lagged panel model: Interpretation of
 cross-lagged parameters and model choice. *Structural Equation Modeling:
 A Multidisciplinary Journal*, *28*(3), 331–344.
 <https://doi.org/10.1080/10705511.2020.1821690>
+
+</div>
+
+<div id="ref-Usami-2022" class="csl-entry">
+
+Usami, S. (2022). Within-person variability score-based causal
+inference: A two-step estimation for joint effects of time-varying
+treatments. *Psychometrika*, *88*(4), 1466–1494.
+<https://doi.org/10.1007/s11336-022-09879-1>
 
 </div>
 
