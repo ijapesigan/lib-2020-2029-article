@@ -4,7 +4,6 @@ Ivan Jacob Agaloos Pesigan
 2024-07-14
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -234,6 +233,25 @@ structural equation models for intensive longitudinal data in Mplus.
 
 McNeish, D., & MacKinnon, D. P. (2022). Intensive longitudinal mediation
 in Mplus. *Psychological Methods*. <https://doi.org/10.1037/met0000536>
+
+</div>
+
+<div id="ref-Mulder-2022" class="csl-entry">
+
+Mulder, J. D. (2022). Power analysis for the random intercept
+cross-lagged panel model using the <span class="nocase">powRICLPM
+R-package</span>. *Structural Equation Modeling: A Multidisciplinary
+Journal*, *30*(4), 645–658.
+<https://doi.org/10.1080/10705511.2022.2122467>
+
+</div>
+
+<div id="ref-Mulder-Hamaker-2020" class="csl-entry">
+
+Mulder, J. D., & Hamaker, E. L. (2020). Three extensions of the random
+intercept cross-lagged panel model. *Structural Equation Modeling: A
+Multidisciplinary Journal*, *28*(4), 638–648.
+<https://doi.org/10.1080/10705511.2020.1784738>
 
 </div>
 
