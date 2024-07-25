@@ -1,10 +1,9 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-07-18
+2024-07-25
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -25,6 +24,26 @@ Adolf, J. K., Loossens, T., Tuerlinckx, F., & Ceulemans, E. (2021).
 Optimal sampling rates for reliable continuous-time first-order
 autoregressive and vector autoregressive modeling. *Psychological
 Methods*, *26*(6), 701–718. <https://doi.org/10.1037/met0000398>
+
+</div>
+
+<div id="ref-Ash-Gueorguieva-Barnett-etal-2022" class="csl-entry">
+
+Ash, G. I., Gueorguieva, R., Barnett, N. P., Wang, W., Robledo, D. S.,
+DeMartini, K. S., Pittman, B., Redeker, N. S., & Fucito, S. S. O. L. M.
+(2022). Sensitivity, specificity, and tolerability of the BACTrack Skyn
+compared to other alcohol monitoring approaches among young adults in a
+field‐based setting. *Alcoholism: Clinical and Experimental Research*,
+*46*(5), 783–796. <https://doi.org/10.1111/acer.14804>
+
+</div>
+
+<div id="ref-Bakk-Kuha-2020" class="csl-entry">
+
+Bakk, Z., & Kuha, J. (2020). Relating latent class membership to
+external variables: An overview. *British Journal of Mathematical and
+Statistical Psychology*, *74*(2), 340–362.
+<https://doi.org/10.1111/bmsp.12227>
 
 </div>
 
@@ -261,6 +280,16 @@ Multidisciplinary Journal*, *28*(4), 638–648.
 Muth’en, B., & Asparouhov, T. (2022). Latent transition analysis with
 random intercepts (RI-LTA). *Psychological Methods*, *27*(1), 1–16.
 <https://doi.org/10.1037/met0000370>
+
+</div>
+
+<div id="ref-Norman-Peacock-Ferguson-etal-2020" class="csl-entry">
+
+Norman, T., Peacock, A., Ferguson, S. G., Kuntsche, E., & Bruno, R.
+(2020). Combining transdermal and breath alcohol assessments, real‐time
+drink logs and retrospective self‐reports to measure alcohol consumption
+and intoxication across a multi‐day music festival. *Drug and Alcohol
+Review*, *40*(7), 1112–1121. <https://doi.org/10.1111/dar.13215>
 
 </div>
 
