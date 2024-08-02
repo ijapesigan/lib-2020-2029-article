@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-07-25
+2024-08-02
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -395,6 +395,17 @@ Sher, K. J., & Piasecki, T. M. (2020). Affect relative to day-level
 drinking initiation: Analyzing ecological momentary assessment data with
 multilevel spline modeling. *Psychology of Addictive Behaviors*,
 *34*(3), 434–446. <https://doi.org/10.1037/adb0000550>
+
+</div>
+
+<div id="ref-Russell-Richards-Turrisi-2024" class="csl-entry">
+
+Russell, M. A., Richards, V. L., Turrisi, R. J., Exten, C. L., Pesigan,
+I. J. A., & Rodr’ıguez, G. C. (2024). Profiles of alcohol intoxication
+and their associated risks in young adults’ natural settings: A
+multilevel latent profile analysis applied to daily transdermal alcohol
+concentration data. *Psychology of Addictive Behaviors*.
+<https://doi.org/10.1037/adb0001022>
 
 </div>
 
