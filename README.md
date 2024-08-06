@@ -1,10 +1,9 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-08-02
+2024-08-06
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -401,7 +400,7 @@ multilevel spline modeling. *Psychology of Addictive Behaviors*,
 <div id="ref-Russell-Richards-Turrisi-2024" class="csl-entry">
 
 Russell, M. A., Richards, V. L., Turrisi, R. J., Exten, C. L., Pesigan,
-I. J. A., & Rodr’ıguez, G. C. (2024). Profiles of alcohol intoxication
+I. J. A., & Rodriguez, G. C. (2024). Profiles of alcohol intoxication
 and their associated risks in young adults’ natural settings: A
 multilevel latent profile analysis applied to daily transdermal alcohol
 concentration data. *Psychology of Addictive Behaviors*.
