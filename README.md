@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-08-06
+2024-08-08
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -375,6 +375,37 @@ Rhemtulla, M., van Bork, R., & Borsboom, D. (2020). Worse than
 measurement error: Consequences of inappropriate latent variable
 measurement models. *Psychological Methods*, *25*(1), 30–45.
 <https://doi.org/10.1037/met0000220>
+
+</div>
+
+<div id="ref-Richards-Barnett-Cook-etal-2022" class="csl-entry">
+
+Richards, V. L., Barnett, N. P., Cook, R. L., Leeman, R. F., Souza, T.,
+Case, S., Prins, C., Cook, C., & Wang, Y. (2022). Correspondence between
+alcohol use measured by a wrist‐worn alcohol biosensor and self‐report
+via ecological momentary assessment over a 2‐week period. *Alcohol:
+Clinical and Experimental Research*, *47*(2), 308–318.
+<https://doi.org/10.1111/acer.14995>
+
+</div>
+
+<div id="ref-Richards-Glenn-Turrisi-etal-2024" class="csl-entry">
+
+Richards, V. L., Glenn, S. D., Turrisi, R. J., Mallett, K. A., Ackerman,
+S., & Russell, M. A. (2024). Transdermal alcohol concentration features
+predict alcohol‐induced blackouts in college students. *Alcohol,
+Clinical and Experimental Research*, *48*(5), 880–888.
+<https://doi.org/10.1111/acer.15290>
+
+</div>
+
+<div id="ref-Richards-Turrisi-Russell-2024" class="csl-entry">
+
+Richards, V. L., Turrisi, R. J., & Russell, M. A. (2024). Subjective
+intoxication predicts alcohol-related consequences at equivalent alcohol
+concentrations in young adults using ecological momentary assessment and
+alcohol sensors. *Psychology of Addictive Behaviors*, *38*(3), 334–346.
+<https://doi.org/10.1037/adb0000993>
 
 </div>
 
