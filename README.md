@@ -1,10 +1,9 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-08-08
+2024-08-12
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -102,6 +101,16 @@ Courtney, J. B., & Russell, M. A. (2021). Testing affect regulation
 models of drinking prior to and after drinking initiation using
 ecological momentary assessment. *Psychology of Addictive Behaviors*,
 *35*(5), 597–608. <https://doi.org/10.1037/adb0000763>
+
+</div>
+
+<div id="ref-DeMartini-Gueorguieva-Taylor-etal-2022" class="csl-entry">
+
+DeMartini, K. S., Gueorguieva, R., Taylor, J. R., Krishnan-Sarin, S.,
+Pearlson, G., Krystal, J. H., & O’Malley, S. S. (2022). Dynamic
+structural equation modeling of the relationship between alcohol habit
+and drinking variability. *Drug and Alcohol Dependence*, *233*, 109202.
+<https://doi.org/10.1016/j.drugalcdep.2021.109202>
 
 </div>
 
@@ -366,6 +375,15 @@ Pesigan, I. J. A., Sun, R. W., & Cheung, S. F. (2023).
 standardized regression coefficients in R. *Multivariate Behavioral
 Research*, *58*(6), 1183–1186.
 <https://doi.org/10.1080/00273171.2023.2201277>
+
+</div>
+
+<div id="ref-Ray-Du-Grodin-etal-2020" class="csl-entry">
+
+Ray, L. A., Du, H., Grodin, E., Bujarski, S., Meredith, L., Ho, D.,
+Nieto, S., & Wassum, K. (2020). Capturing habitualness of drinking and
+smoking behavior in humans. *Drug and Alcohol Dependence*, *207*,
+107738. <https://doi.org/10.1016/j.drugalcdep.2019.107738>
 
 </div>
 
