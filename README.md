@@ -108,9 +108,9 @@ ecological momentary assessment. *Psychology of Addictive Behaviors*,
 <div id="ref-DeMartini-Gueorguieva-Taylor-etal-2022" class="csl-entry">
 
 DeMartini, K. S., Gueorguieva, R., Taylor, J. R., Krishnan-Sarin, S.,
-Pearlson, G., Krystal, J. H., & O’Malley, S. S. (2022). Dynamic
-structural equation modeling of the relationship between alcohol habit
-and drinking variability. *Drug and Alcohol Dependence*, *233*, 109202.
+Pearlson, G., Krystal, J. H., & O, S. S. (2022). Dynamic structural
+equation modeling of the relationship between alcohol habit and drinking
+variability. *Drug and Alcohol Dependence*, *233*, 109202.
 <https://doi.org/10.1016/j.drugalcdep.2021.109202>
 
 </div>
