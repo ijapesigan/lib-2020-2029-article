@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-08-12
+2024-08-14
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -248,6 +248,15 @@ Rehm, J. (2021). What are the economic costs to society attributable to
 alcohol use? A systematic review and modelling study.
 *PharmacoEconomics*, *39*(7), 809–822.
 <https://doi.org/10.1007/s40273-021-01031-8>
+
+</div>
+
+<div id="ref-McKendrick-Graziane-2020" class="csl-entry">
+
+McKendrick, G., & Graziane, N. M. (2020). Drug-induced conditioned place
+preference and its practical use in substance use disorder research.
+*Frontiers in Behavioral Neuroscience*, *14*.
+<https://doi.org/10.3389/fnbeh.2020.582147>
 
 </div>
 
