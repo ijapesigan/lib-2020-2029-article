@@ -1,10 +1,9 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-08-14
+2024-08-16
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
-
 <!-- badges: start -->
 
 [![Make
@@ -297,7 +296,7 @@ Multidisciplinary Journal*, *28*(4), 638–648.
 
 <div id="ref-Muthen-Asparouhov-2022" class="csl-entry">
 
-Muth’en, B., & Asparouhov, T. (2022). Latent transition analysis with
+Muth’en, B. O., & Asparouhov, T. (2022). Latent transition analysis with
 random intercepts (RI-LTA). *Psychological Methods*, *27*(1), 1–16.
 <https://doi.org/10.1037/met0000370>
 
