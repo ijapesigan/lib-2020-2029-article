@@ -468,7 +468,7 @@ multilevel spline modeling. *Psychology of Addictive Behaviors*,
 
 </div>
 
-<div id="ref-Russell-Richards-Turrisi-2024" class="csl-entry">
+<div id="ref-Russell-Richards-Turrisi-etal-2024" class="csl-entry">
 
 Russell, M. A., Richards, V. L., Turrisi, R. J., Exten, C. L., Pesigan,
 I. J. A., & Rodriguez, G. C. (2024). Profiles of alcohol intoxication
