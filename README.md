@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2024-12-12
+2025-03-01
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -425,6 +425,16 @@ S., & Russell, M. A. (2024). Transdermal alcohol concentration features
 predict alcohol‐induced blackouts in college students. *Alcohol,
 Clinical and Experimental Research*, *48*(5), 880–888.
 <https://doi.org/10.1111/acer.15290>
+
+</div>
+
+<div id="ref-Richards-Mallett-Turrisi-etal-2025" class="csl-entry">
+
+Richards, V. L., Mallett, K. A., Turrisi, R. J., Glenn, S. D., &
+Russell, M. A. (2025). Profiles of transdermal alcohol concentration and
+their prediction of negative and positive alcohol-related consequences
+in young adults’ natural settings. *Psychology of Addictive Behaviors*.
+<https://doi.org/10.1037/adb0001054>
 
 </div>
 
