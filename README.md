@@ -137,6 +137,14 @@ Bulletin*, *149*(1–2), 1–24. <https://doi.org/10.1037/bul0000387>
 
 </div>
 
+<div id="ref-Driver-2025" class="csl-entry">
+
+Driver, C. C. (2025). Inference with cross-lagged effects—problems in
+time. *Psychological Methods*, *30*(1), 174–202.
+<https://doi.org/10.1037/met0000665>
+
+</div>
+
 <div id="ref-Fridberg-Wang-Porges-2022" class="csl-entry">
 
 Fridberg, D. J., Wang, Y., & Porges, E. (2022). Examining features of
