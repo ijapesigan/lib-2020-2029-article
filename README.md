@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2025-03-01
+2025-04-05
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -321,6 +321,16 @@ S., Marwick, B., Nolis, H., Nolis, J., Ooi, H., Ram, K., Ross, N.,
 Shepherd, L., S’olymos, P., … Xiao, N. (2020). The Rockerverse: Packages
 and applications for containerisation with R. *The R Journal*, *12*(1),
 437. <https://doi.org/10.32614/rj-2020-007>
+
+</div>
+
+<div id="ref-Oh-Hunter-Chow-2025" class="csl-entry">
+
+Oh, H., Hunter, M. D., & Chow, S.-M. (2025). Measurement model
+misspecification in dynamic structural equation models: Power,
+reliability, and other considerations. *Structural Equation Modeling: A
+Multidisciplinary Journal*, 1–18.
+<https://doi.org/10.1080/10705511.2025.2452884>
 
 </div>
 
