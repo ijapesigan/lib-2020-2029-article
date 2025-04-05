@@ -343,6 +343,14 @@ Psychology*, *120*(4), 1013–1034. <https://doi.org/10.1037/pspp0000358>
 
 </div>
 
+<div id="ref-Orzek-Voelkle-2023" class="csl-entry">
+
+Orzek, J. H., & Voelkle, M. C. (2023). Regularized continuous time
+structural equation models: A network perspective. *Psychological
+Methods*, *28*(6), 1286–1320. <https://doi.org/10.1037/met0000550>
+
+</div>
+
 <div id="ref-Park-Chow-Epskamp-etal-2024" class="csl-entry">
 
 Park, J. J., Chow, S.-M., Epskamp, S., & Molenaar, P. C. M. (2024).
