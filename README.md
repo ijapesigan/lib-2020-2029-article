@@ -222,6 +222,16 @@ multilevel vector autoregressive models in Stan, JAGS, and Mplus.
 
 </div>
 
+<div id="ref-Lohmann-Zitzmann-Voelkle-etal-2022" class="csl-entry">
+
+Lohmann, J. F., Zitzmann, S., Voelkle, M. C., & Hecht, M. (2022). A
+primer on continuous-time modeling in educational research: An exemplary
+application of a continuous-time latent curve model with structured
+residuals (CT-LCM-SR) to PISA data. *Large-Scale Assessments in
+Education*, *10*(1). <https://doi.org/10.1186/s40536-022-00126-8>
+
+</div>
+
 <div id="ref-Loossens-Mestdagh-Dejonckheere-etal-2020"
 class="csl-entry">
 
