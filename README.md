@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2025-04-05
+2025-04-17
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -207,6 +207,16 @@ effects with continuous-time models: Recommendations concerning
 statistical power to detect peak cross-lagged effects. *Structural
 Equation Modeling: A Multidisciplinary Journal*, *28*(6), 894–902.
 <https://doi.org/10.1080/10705511.2021.1914627>
+
+</div>
+
+<div id="ref-Lee-Gates-2023" class="csl-entry">
+
+Lee, S. A. W., & Gates, K. M. (2023). From the individual to the group:
+Using idiographic analyses and two-stage random effects meta-analysis to
+obtain population level inferences for within-person processes.
+*Multivariate Behavioral Research*, *59*(6), 1220–1239.
+<https://doi.org/10.1080/00273171.2023.2229310>
 
 </div>
 
