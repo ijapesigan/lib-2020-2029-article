@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2025-04-17
+2025-06-18
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -421,6 +421,14 @@ Pesigan, I. J. A., & Cheung, S. F. (2023). Monte Carlo confidence
 intervals for the indirect effect with missing data. *Behavior Research
 Methods*, *56*(3), 1678–1696.
 <https://doi.org/10.3758/s13428-023-02114-4>
+
+</div>
+
+<div id="ref-Pesigan-Russell-Chow-2025a" class="csl-entry">
+
+Pesigan, I. J. A., Russell, M. A., & Chow, S.-M. (2025). Inferences and
+effect sizes for direct, indirect, and total effects in continuous-time
+mediation models. *Psychological Methods*.
 
 </div>
 
