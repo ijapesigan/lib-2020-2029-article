@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2025-08-29
+2025-09-15
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -416,9 +416,9 @@ nonnormality, under certain conditions. *Frontiers in Psychology*, *11*.
 
 </div>
 
-<div id="ref-Pesigan-Cheung-2023" class="csl-entry">
+<div id="ref-Pesigan-Cheung-2024" class="csl-entry">
 
-Pesigan, I. J. A., & Cheung, S. F. (2023). Monte Carlo confidence
+Pesigan, I. J. A., & Cheung, S. F. (2024). Monte Carlo confidence
 intervals for the indirect effect with missing data. *Behavior Research
 Methods*, *56*(3), 1678–1696.
 <https://doi.org/10.3758/s13428-023-02114-4>
@@ -456,10 +456,10 @@ smoking behavior in humans. *Drug and Alcohol Dependence*, *207*,
 
 <div id="ref-Rhemtulla-vanBork-Borsboom-2020" class="csl-entry">
 
-Rhemtulla, M., van Bork, R., & Borsboom, D. (2020). Worse than
-measurement error: Consequences of inappropriate latent variable
-measurement models. *Psychological Methods*, *25*(1), 30–45.
-<https://doi.org/10.1037/met0000220>
+<span class="nocase">Rhemtulla, M., van Bork, R., & Borsboom, D.</span>
+(2020). Worse than measurement error: Consequences of inappropriate
+latent variable measurement models. *Psychological Methods*, *25*(1),
+30–45. <https://doi.org/10.1037/met0000220>
 
 </div>
 
@@ -612,11 +612,11 @@ treatments. *Psychometrika*, *88*(4), 1466–1494.
 
 <div id="ref-vanEgmond-Wright-Livingston-etal-2020" class="csl-entry">
 
-van Egmond, K., Wright, C. J. C., Livingston, M., & Kuntsche, E. (2020).
-Wearable transdermal alcohol monitors: A systematic review of detection
-validity, and relationship between transdermal and breath alcohol
-concentration and influencing factors. *Alcoholism: Clinical and
-Experimental Research*, *44*(10), 1918–1932.
+<span class="nocase">van Egmond, K., Wright, C. J. C., Livingston, M., &
+Kuntsche, E.</span> (2020). Wearable transdermal alcohol monitors: A
+systematic review of detection validity, and relationship between
+transdermal and breath alcohol concentration and influencing factors.
+*Alcoholism: Clinical and Experimental Research*, *44*(10), 1918–1932.
 <https://doi.org/10.1111/acer.14432>
 
 </div>
