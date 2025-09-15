@@ -86,9 +86,9 @@ correlations, indirect effects, and other derived parameters.
 
 </div>
 
-<div id="ref-Cheung-Pesigan-Vong-2022" class="csl-entry">
+<div id="ref-Cheung-Pesigan-Vong-2023" class="csl-entry">
 
-Cheung, S. F., Pesigan, I. J. A., & Vong, W. N. (2022). DIY
+Cheung, S. F., Pesigan, I. J. A., & Vong, W. N. (2023). DIY
 bootstrapping: Getting the nonparametric bootstrap confidence interval
 in SPSS for any statistics or function of statistics (when this
 bootstrapping is appropriate). *Behavior Research Methods*, *55*(2),
@@ -425,9 +425,18 @@ Methods*, *56*(3), 1678–1696.
 
 </div>
 
+<div id="ref-Pesigan-Russell-Chow-2025b" class="csl-entry">
+
+Pesigan, I. J. A., Russell, M. A., & Chow, S.-M. (2025a). Common and
+unique latent transition analysis (CULTA) as a way to examine the
+trait-state dynamics of alcohol intoxication. *Psychology of Addictive
+Behaviors*.
+
+</div>
+
 <div id="ref-Pesigan-Russell-Chow-2025a" class="csl-entry">
 
-Pesigan, I. J. A., Russell, M. A., & Chow, S.-M. (2025). Inferences and
+Pesigan, I. J. A., Russell, M. A., & Chow, S.-M. (2025b). Inferences and
 effect sizes for direct, indirect, and total effects in continuous-time
 mediation models. *Psychological Methods*.
 <https://doi.org/10.1037/met0000779>
