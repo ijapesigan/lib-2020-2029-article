@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2025-09-21
+2025-09-22
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -425,9 +425,18 @@ Methods*, *56*(3), 1678–1696.
 
 </div>
 
+<div id="ref-Pesigan-Russell-Chow-2025b" class="csl-entry">
+
+Pesigan, I. J. A., Russell, M. A., & Chow, S.-M. (2025a). Common and
+unique latent transition analysis (CULTA) as a way to examine the
+trait-state dynamics of alcohol intoxication. *Psychology of Addictive
+Behaviors*.
+
+</div>
+
 <div id="ref-Pesigan-Russell-Chow-2025a" class="csl-entry">
 
-Pesigan, I. J. A., Russell, M. A., & Chow, S.-M. (2025). Inferences and
+Pesigan, I. J. A., Russell, M. A., & Chow, S.-M. (2025b). Inferences and
 effect sizes for direct, indirect, and total effects in continuous-time
 mediation models. *Psychological Methods*.
 <https://doi.org/10.1037/met0000779>
