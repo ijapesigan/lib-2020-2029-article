@@ -436,8 +436,7 @@ Methods*, *56*(3), 1678–1696.
 
 </div>
 
-<div id="ref-lib-2020-2029-article-Pesigan-Cheung-Wu-etal-2025"
-class="csl-entry">
+<div id="ref-Pesigan-Cheung-Wu-etal-2025" class="csl-entry">
 
 Pesigan, I. J. A., Cheung, S. F., Wu, H., Chang, F., & Leung, S. O.
 (2025). How plausible is my model? Assessing model plausibility of
