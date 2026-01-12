@@ -555,6 +555,15 @@ Methods and Practices in Psychological Science*, *4*(1), 1–10.
 
 </div>
 
+<div id="ref-Rowland-Wenzel-2020" class="csl-entry">
+
+Rowland, Z., & Wenzel, M. (2020). Mindfulness and affect-network
+density: Does mindfulness facilitate disengagement from affective
+experiences in daily life? *Mindfulness*, *11*(5), 1253–1266.
+<https://doi.org/10.1007/s12671-020-01335-4>
+
+</div>
+
 <div id="ref-Russell-LindenCarmichael-Lanza-etal-2020"
 class="csl-entry">
 
