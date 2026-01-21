@@ -115,7 +115,7 @@ Declercq, L., Jamshidi, L., Fern’andez Castilla, B., Moeyaert, M.,
 Beretvas, S. N., Ferron, J. M., & Van den Noortgate, W. (2020).
 Multilevel meta-analysis of individual participant data of single-case
 experimental designs: One-stage versus two-stage methods. *Multivariate
-Behavioral Research*, *57*(2–3), 298–317.
+Behavioral Research*, *57*(2-3), 298–317.
 <https://doi.org/10.1080/00273171.2020.1822148>
 
 </div>
@@ -428,8 +428,8 @@ Methods*, *28*(6), 1286–1320. <https://doi.org/10.1037/met0000550>
 <div id="ref-Ou-Hunter-Lu-etal-2023" class="csl-entry">
 
 Ou, L., Hunter, M. D., Lu, Z., Stifter, C. A., & Chow, S. (2023).
-Estimation of nonlinear mixed‐effects continuous‐time models using the
-continuous‐discrete extended Kalman filter. *British Journal of
+Estimation of nonlinear mixed-effects continuous-time models using the
+continuous-discrete extended Kalman filter. *British Journal of
 Mathematical and Statistical Psychology*, *76*(3), 462–490.
 <https://doi.org/10.1111/bmsp.12318>
 
