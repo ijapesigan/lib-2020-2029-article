@@ -643,8 +643,7 @@ mediation models. *Psychological Methods*.
 Pesigan, I. J. A., Russell, M. A., & Chow, S.-M. (2026). *From
 person-specific dynamics to population inference: A computationally
 efficient meta-analytic structural equation modeling framework for
-integrating complex multilevel dynamic models* \[Unpublished
-manuscript\].
+integrating complex multilevel dynamic models*. mansub.
 
 </div>
 
