@@ -522,6 +522,14 @@ random intercepts (RI-LTA). *Psychological Methods*, *27*(1), 1–16.
 
 </div>
 
+<div id="ref-MyinGermeys-Kuppens-2026" class="csl-entry">
+
+Myin-Germeys, I., & Kuppens, P. (Eds.). (2026). *The open handbook of
+experience sampling methodology* (3rd ed.). Leuven University Press.
+<https://doi.org/10.11116/9789461666925>
+
+</div>
+
 <div id="ref-Nestler-2021" class="csl-entry">
 
 Nestler, S. (2021). Modeling intraindividual variability in growth with
