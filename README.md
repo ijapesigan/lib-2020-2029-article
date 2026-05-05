@@ -404,7 +404,7 @@ Bayes estimates as measures of individual traits. *Assessment*, *28*(3),
 
 </div>
 
-<div id="ref-Liu-Rhemtulla-2021" class="csl-entry">
+<div id="ref-Liu-Rhemtulla-2022" class="csl-entry">
 
 Liu, S., & Rhemtulla, M. (2022). Treating random effects as observed
 versus latent predictors: The bias-variance tradeoff in small samples.
