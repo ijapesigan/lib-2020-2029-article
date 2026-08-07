@@ -469,9 +469,9 @@ predictive accuracy. *Scientific Reports*, *11*(1).
 
 </div>
 
-<div id="ref-Luo-Zhang-Cao-etal-2022" class="csl-entry">
+<div id="ref-Luo-Zhang-Cao-etal-2023" class="csl-entry">
 
-Luo, J., Zhang, B., Cao, M., & Roberts, B. W. (2022). The stressful
+Luo, J., Zhang, B., Cao, M., & Roberts, B. W. (2023). The stressful
 personality: A meta-analytical review of the relation between
 personality and stress. *Personality and Social Psychology Review*,
 *27*(2), 128–194. <https://doi.org/10.1177/10888683221104002>
