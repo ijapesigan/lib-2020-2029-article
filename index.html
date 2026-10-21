@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Ivan Jacob Agaloos Pesigan">
-<meta name="dcterms.date" content="2026-08-31">
+<meta name="dcterms.date" content="2026-10-21">
 
 <title>lib-2020-2029-article</title>
 <style>
@@ -64,7 +64,7 @@ div.csl-indent {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-07314a9cf6582ab18f4f031a2d4fd43d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-004c99859f14aec832c829f565e6c340.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-a206d21545c63f9cce3c5482e250c974.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -93,6 +93,35 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -187,7 +216,7 @@ div.csl-indent {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">August 31, 2026</p>
+      <p class="date">October 21, 2026</p>
     </div>
   </div>
   
@@ -247,6 +276,12 @@ Boker, S. M., Daniel, K. E., &amp; Orzek, J. (2024). Separating
 long-term equilibrium adaptation from short-term self-regulation
 dynamics using latent differential equations. <em>Multivariate
 Behavioral Research</em>, <em>59</em>(6), 1177–1187. <a href="https://doi.org/10.1080/00273171.2023.2228302">https://doi.org/10.1080/00273171.2023.2228302</a>
+</div>
+<div id="ref-Borenstein-2024" class="csl-entry" role="listitem">
+Borenstein, M. (2024). Avoiding common mistakes in meta-analysis:
+Understanding the distinct roles of <span><span class="math inline"><em>Q</em></span></span>, <span><span class="math inline"><em>I</em></span></span>-squared, tau-squared, and
+the prediction interval in reporting heterogeneity. <em>Research
+Synthesis Methods</em>, <em>15</em>(2), 354–368. <a href="https://doi.org/10.1002/jrsm.1678">https://doi.org/10.1002/jrsm.1678</a>
 </div>
 <div id="ref-Borghuis-Bleidorn-Sijtsma-etal-2020" class="csl-entry" role="listitem">
 Borghuis, J., Bleidorn, W., Sijtsma, K., Branje, S., Meeus, W. H. J.,
@@ -322,7 +357,7 @@ ecological momentary assessment. <em>Psychology of Addictive
 Behaviors</em>, <em>35</em>(5), 597–608. <a href="https://doi.org/10.1037/adb0000763">https://doi.org/10.1037/adb0000763</a>
 </div>
 <div id="ref-Declercq-Jamshidi-FernandezCastilla-etal-2022" class="csl-entry" role="listitem">
-Declercq, L., Jamshidi, L., Fern’andez Castilla, B., Moeyaert, M.,
+Declercq, L., Jamshidi, L., Fernández Castilla, B., Moeyaert, M.,
 Beretvas, S. N., Ferron, J. M., &amp; Van den Noortgate, W. (2022).
 Multilevel meta-analysis of individual participant data of single-case
 experimental designs: One-stage versus two-stage methods.
@@ -437,8 +472,8 @@ psychological processes in perspective. <em>Annual Review of Clinical
 Psychology</em>, <em>21</em>(1), 379–405. <a href="https://doi.org/10.1146/annurev-clinpsy-081423-022947">https://doi.org/10.1146/annurev-clinpsy-081423-022947</a>
 </div>
 <div id="ref-Hamaker-Muthen-2020" class="csl-entry" role="listitem">
-Hamaker, E. L., &amp; Muth’en, B. (2020). The fixed versus random
-effects debate and how it relates to centering in multilevel modeling.
+Hamaker, E. L., &amp; Muthén, B. (2020). The fixed versus random effects
+debate and how it relates to centering in multilevel modeling.
 <em>Psychological Methods</em>, <em>25</em>(3), 365–379. <a href="https://doi.org/10.1037/met0000239">https://doi.org/10.1037/met0000239</a>
 </div>
 <div id="ref-Haslbeck-Ryan-2022" class="csl-entry" role="listitem">
@@ -451,7 +486,7 @@ Hecht, M., &amp; Voelkle, M. C. (2021). Continuous-time modeling in
 prevention research: An illustration. <em>International Journal of
 Behavioral Development</em>, <em>45</em>(1), 19–27. <a href="https://doi.org/10.1177/0165025419885026">https://doi.org/10.1177/0165025419885026</a>
 </div>
-<div id="ref-Hecht-Zitzmann-2020a" class="csl-entry" role="listitem">
+<div id="ref-Hecht-Zitzmann-2020" class="csl-entry" role="listitem">
 Hecht, M., &amp; Zitzmann, S. (2020). A computationally more efficient
 <span>Bayesian</span> approach for estimating continuous-time models.
 <em>Structural Equation Modeling: A Multidisciplinary Journal</em>,
@@ -542,6 +577,12 @@ Temporal bidirectional dynamics of momentary stress and affect: Dynamic
 structural equation modelling of ecological momentary assessments.
 <em>Journal of Affective Disorders</em>, <em>396</em>, 120810. <a href="https://doi.org/10.1016/j.jad.2025.120810">https://doi.org/10.1016/j.jad.2025.120810</a>
 </div>
+<div id="ref-Lee-Hancock-2026" class="csl-entry" role="listitem">
+Lee, D., &amp; Hancock, G. R. (2026). Do <span>I</span> even need a
+multilevel model? Negligible effect significance testing for intraclass
+correlation coefficients. <em>Journal of Educational and Behavioral
+Statistics</em>. <a href="https://doi.org/10.3102/10769986261478956">https://doi.org/10.3102/10769986261478956</a>
+</div>
 <div id="ref-Lee-Gates-2024" class="csl-entry" role="listitem">
 Lee, S. A. W., &amp; Gates, K. M. (2024). From the individual to the
 group: Using idiographic analyses and two-stage random effects
@@ -553,7 +594,8 @@ processes. <em>Multivariate Behavioral Research</em>, <em>59</em>(6),
 Lee, S. A., Graham-Engeland, J. E., Lee, S., &amp; Almeida, D. M.
 (2026). The mediating role of daily affect dynamics in bidirectional and
 longitudinal associations between depressive symptoms and inflammation.
-<em>Biopsychosocial Science and Medicine</em>. <a href="https://doi.org/10.1097/psy.0000000000001494">https://doi.org/10.1097/psy.0000000000001494</a>
+<em>Biopsychosocial Science and Medicine</em>, <em>88</em>(6), 521–534.
+<a href="https://doi.org/10.1097/psy.0000000000001494">https://doi.org/10.1097/psy.0000000000001494</a>
 </div>
 <div id="ref-Levi-Shoham-Amir-etal-2021" class="csl-entry" role="listitem">
 Levi, K., Shoham, A., Amir, I., &amp; Bernstein, A. (2021). The daily
@@ -680,7 +722,7 @@ random intercept cross-lagged panel model. <em>Structural Equation
 Modeling: A Multidisciplinary Journal</em>, <em>28</em>(4), 638–648. <a href="https://doi.org/10.1080/10705511.2020.1784738">https://doi.org/10.1080/10705511.2020.1784738</a>
 </div>
 <div id="ref-Muthen-Asparouhov-2022" class="csl-entry" role="listitem">
-Muth’en, B. O., &amp; Asparouhov, T. (2022). Latent transition analysis
+Muthén, B. O., &amp; Asparouhov, T. (2022). Latent transition analysis
 with random intercepts (<span>RI-LTA</span>). <em>Psychological
 Methods</em>, <em>27</em>(1), 1–16. <a href="https://doi.org/10.1037/met0000370">https://doi.org/10.1037/met0000370</a>
 </div>
@@ -698,9 +740,9 @@ Review</em>, <em>40</em>(7), 1112–1121. <a href="https://doi.org/10.1111/dar.1
 </div>
 <div id="ref-Nust-Eddelbuettel-Bennett-etal-2020" class="csl-entry" role="listitem">
 Nüst, D., Eddelbuettel, D., Bennett, D., Cannoodt, R., Clark, D.,
-Dar’oczi, G., Edmondson, M., Fay, C., Hughes, E., Kjeldgaard, L., Lopp,
+Daróczi, G., Edmondson, M., Fay, C., Hughes, E., Kjeldgaard, L., Lopp,
 S., Marwick, B., Nolis, H., Nolis, J., Ooi, H., Ram, K., Ross, N.,
-Shepherd, L., S’olymos, P., … Xiao, N. (2020). The
+Shepherd, L., Sólymos, P., … Xiao, N. (2020). The
 <span>Rockerverse</span>: Packages and applications for containerisation
 with <span>R</span>. <em>The R Journal</em>, <em>12</em>(1), 437. <a href="https://doi.org/10.32614/rj-2020-007">https://doi.org/10.32614/rj-2020-007</a>
 </div>
@@ -720,6 +762,12 @@ Orth, U., Clark, D. A., Donnellan, M. B., &amp; Robins, R. W. (2021).
 Testing prospective effects in longitudinal research: Comparing seven
 competing cross-lagged models. <em>Journal of Personality and Social
 Psychology</em>, <em>120</em>(4), 1013–1034. <a href="https://doi.org/10.1037/pspp0000358">https://doi.org/10.1037/pspp0000358</a>
+</div>
+<div id="ref-Orth-Meier-Buhler-etal-2024" class="csl-entry" role="listitem">
+Orth, U., Meier, L. L., Bühler, J. L., Dapp, L. C., Krauss, S.,
+Messerli, D., &amp; Robins, R. W. (2024). Effect size guidelines for
+cross-lagged effects. <em>Psychological Methods</em>, <em>29</em>(2),
+421–433. <a href="https://doi.org/10.1037/met0000499">https://doi.org/10.1037/met0000499</a>
 </div>
 <div id="ref-Orzek-Voelkle-2023" class="csl-entry" role="listitem">
 Orzek, J. H., &amp; Voelkle, M. C. (2023). Regularized continuous time
@@ -744,7 +792,7 @@ Park, J. J., Chow, S.-M., Fisher, Z. F., &amp; Molenaar, P. C. M.
 (non-)directionality in dynamic network models. <em>European Journal of
 Psychological Assessment</em>, <em>36</em>(6), 1009–1023. <a href="https://doi.org/10.1027/1015-5759/a000612">https://doi.org/10.1027/1015-5759/a000612</a>
 </div>
-<div id="ref-Park-Fisher-Chow-etal-2023a" class="csl-entry" role="listitem">
+<div id="ref-Park-Fisher-Chow-etal-2023" class="csl-entry" role="listitem">
 Park, J. J., Fisher, Z. F., Chow, S.-M., &amp; Molenaar, P. C. M.
 (2023). On subgrouping continuous processes in discrete time.
 <em>Multivariate Behavioral Research</em>, <em>58</em>(1), 154–155. <a href="https://doi.org/10.1080/00273171.2022.2160957">https://doi.org/10.1080/00273171.2022.2160957</a>
@@ -779,13 +827,13 @@ plausibility of structural equation models using <span>Bayesian</span>
 posterior probabilities (<span>BPP</span>). <em>Behavior Research
 Methods</em>, <em>58</em>(3), 73. <a href="https://doi.org/10.3758/s13428-025-02921-x">https://doi.org/10.3758/s13428-025-02921-x</a>
 </div>
-<div id="ref-Pesigan-Russell-Chow-2025" class="csl-entry" role="listitem">
+<div id="ref-Pesigan-Russell-Chow-2025b" class="csl-entry" role="listitem">
 Pesigan, I. J. A., Russell, M. A., &amp; Chow, S.-M. (2025a). Common and
 unique latent transition analysis (<span>CULTA</span>) as a way to
 examine the trait-state dynamics of alcohol intoxication. <em>Psychology
 of Addictive Behaviors</em>, <em>39</em>(8), 743–762. <a href="https://doi.org/10.1037/adb0001106">https://doi.org/10.1037/adb0001106</a>
 </div>
-<div id="ref-Pesigan-Russell-Chow-2025o" class="csl-entry" role="listitem">
+<div id="ref-Pesigan-Russell-Chow-2025a" class="csl-entry" role="listitem">
 Pesigan, I. J. A., Russell, M. A., &amp; Chow, S.-M. (2025b). Inferences
 and effect sizes for direct, indirect, and total effects in
 continuous-time mediation models. <em>Psychological Methods</em>. <a href="https://doi.org/10.1037/met0000779">https://doi.org/10.1037/met0000779</a>
@@ -801,6 +849,14 @@ review.
 Pesigan, I. J. A., Sun, R. W., &amp; Cheung, S. F. (2023). <span class="nocase">betaDelta</span> and <span class="nocase">betaSandwich</span>: Confidence intervals for
 standardized regression coefficients in <span>R</span>. <em>Multivariate
 Behavioral Research</em>, <em>58</em>(6), 1183–1186. <a href="https://doi.org/10.1080/00273171.2023.2201277">https://doi.org/10.1080/00273171.2023.2201277</a>
+</div>
+<div id="ref-Pick-Kasper-Allegue-etal-2023" class="csl-entry" role="listitem">
+Pick, J. L., Kasper, C., Allegue, H., Dingemanse, N. J., Dochtermann, N.
+A., Laskowski, K. L., Lima, M. R., Schielzeth, H., Westneat, D. F.,
+Wright, J., &amp; Araya-Ajoy, Y. G. (2023). Describing posterior
+distributions of variance components: Problems and the use of null
+distributions to aid interpretation. <em>Methods in Ecology and
+Evolution</em>, <em>14</em>(10), 2557–2574. <a href="https://doi.org/10.1111/2041-210x.14200">https://doi.org/10.1111/2041-210x.14200</a>
 </div>
 <div id="ref-Ray-Du-Grodin-etal-2020" class="csl-entry" role="listitem">
 Ray, L. A., Du, H., Grodin, E., Bujarski, S., Meredith, L., Ho, D.,
@@ -894,7 +950,7 @@ settings: A multilevel latent profile analysis applied to daily
 transdermal alcohol concentration data. <em>Psychology of Addictive
 Behaviors</em>, <em>39</em>(2), 173–185. <a href="https://doi.org/10.1037/adb0001022">https://doi.org/10.1037/adb0001022</a>
 </div>
-<div id="ref-Russell-Smyth-Turrisi-Rodriguez-2024" class="csl-entry" role="listitem">
+<div id="ref-Russell-Smyth-Turrisi-etal-2024" class="csl-entry" role="listitem">
 Russell, M. A., Smyth, J. M., Turrisi, R., &amp; Rodriguez, G. C.
 (2024). Baseline protective behavioral strategy use predicts more
 moderate transdermal alcohol concentration dynamics and fewer negative
@@ -918,6 +974,12 @@ Savalei, V., &amp; Rosseel, Y. (2022). Computational options for
 standard errors and test statistics with incomplete normal and nonnormal
 data in <span>SEM</span>. <em>Structural Equation Modeling: A
 Multidisciplinary Journal</em>, <em>29</em>(2), 163–181. <a href="https://doi.org/10.1080/10705511.2021.1877548">https://doi.org/10.1080/10705511.2021.1877548</a>
+</div>
+<div id="ref-Schneider-Junghaenel-2023" class="csl-entry" role="listitem">
+Schneider, S., &amp; Junghaenel, D. U. (2023). Estimating reliabilities
+and correcting for sampling error in indices of within-person dynamics
+derived from intensive longitudinal data. <em>Behavior Research
+Methods</em>, <em>55</em>(7), 3872–3891. <a href="https://doi.org/10.3758/s13428-022-01995-1">https://doi.org/10.3758/s13428-022-01995-1</a>
 </div>
 <div id="ref-Shao-Ong-2026" class="csl-entry" role="listitem">
 Shao, S., &amp; Ong, A. D. (2026). Seven challenges in affective inertia
@@ -973,7 +1035,7 @@ Journal</em>, <em>33</em>(2), 235–251. <a href="https://doi.org/10.1080/107055
 <div id="ref-Wang-Liu-2026" class="csl-entry" role="listitem">
 Wang, L., &amp; Liu, X. (2026). Modeling intraindividual variability as
 a predictor with intensive longitudinal data. <em>Psychological
-Methods</em>. <a href="https://doi.org/10.1037/met0000818">https://doi.org/10.1037/met0000818</a>
+Methods</em>, <em>31</em>(3), 516–533. <a href="https://doi.org/10.1037/met0000818">https://doi.org/10.1037/met0000818</a>
 </div>
 <div id="ref-Wang-Zhang-2020" class="csl-entry" role="listitem">
 Wang, L., &amp; Zhang, Q. (2020). Investigating the impact of the time
