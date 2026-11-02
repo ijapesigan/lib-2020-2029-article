@@ -106,6 +106,15 @@ latent differential equations. *Multivariate Behavioral Research*,
 
 </div>
 
+<div id="ref-Bolt-Nomi-Bzdok-etal-2021" class="csl-entry">
+
+Bolt, T., Nomi, J. S., Bzdok, D., & Uddin, L. Q. (2021). Educating the
+future generation of researchers: A cross-disciplinary survey of trends
+in analysis methods. *PLOS Biology*, *19*(7), e3001313.
+<https://doi.org/10.1371/journal.pbio.3001313>
+
+</div>
+
 <div id="ref-Borenstein-2024" class="csl-entry">
 
 Borenstein, M. (2024). Avoiding common mistakes in meta-analysis:
@@ -1267,6 +1276,15 @@ Shaygan, M., & Karami, Z. (2020). Chronic pain in adolescents:
 Predicting role of emotional intelligence, self-esteem and parenting
 style. *International Journal of Community Based Nursing & Midwifery*,
 *8*. <https://doi.org/10.30476/ijcbnm.2020.83153.1129>
+
+</div>
+
+<div id="ref-Sladekova-Poupa-Field-2026" class="csl-entry">
+
+Sladekova, M., Poupa, V., & Field, A. (2026). Sources of bias in general
+linear models: Evaluating the analytic practice in psychological
+research. *Royal Society Open Science*, *13*(2).
+<https://doi.org/10.1098/rsos.250076>
 
 </div>
 
