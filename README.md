@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-01
+2026-11-02
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -37,6 +37,15 @@ Adolf, J. K., Loossens, T., Tuerlinckx, F., & Ceulemans, E. (2021).
 Optimal sampling rates for reliable continuous-time first-order
 autoregressive and vector autoregressive modeling. *Psychological
 Methods*, *26*(6), 701–718. <https://doi.org/10.1037/met0000398>
+
+</div>
+
+<div id="ref-Anderson-2024" class="csl-entry">
+
+Anderson, S. F. (2024). A confidence interval for the difference between
+standardized regression coefficients. *Multivariate Behavioral
+Research*, *59*(4), 758–780.
+<https://doi.org/10.1080/00273171.2024.2318784>
 
 </div>
 
@@ -231,6 +240,14 @@ Behavioral Research*, *57*(2-3), 298–317.
 
 </div>
 
+<div id="ref-Dedecker-Guedj-Taupin-2025" class="csl-entry">
+
+Dedecker, J., Guedj, O., & Taupin, M.-L. (2025). Asymptotic confidence
+interval for $R^2$ in multiple linear regression. *Statistics*, *59*(1),
+1–36. <https://doi.org/10.1080/02331888.2024.2428978>
+
+</div>
+
 <div id="ref-DeMartini-Gueorguieva-Taylor-etal-2022" class="csl-entry">
 
 DeMartini, K. S., Gueorguieva, R., Taylor, J. R., Krishnan-Sarin, S.,
@@ -353,6 +370,15 @@ functioning or is it the other way around? A daily diary study.
 
 </div>
 
+<div id="ref-Gonzales-Li-2024" class="csl-entry">
+
+Gonzales, I., & Li, J. C.-H. (2024). What effect sizes should
+researchers report for multiple regression under non-normal data?
+*Communications in Statistics - Simulation and Computation*, *53*(6),
+2786–2804. <https://doi.org/10.1080/03610918.2022.2091778>
+
+</div>
+
 <div id="ref-Grayson-Harari-Matz-2026" class="csl-entry">
 
 Grayson, S. J., Harari, G. M., & Matz, S. C. (2026). The impact of
@@ -367,6 +393,18 @@ Groot, L. J., Kan, K.-J., & Jak, S. (2024). Checking the inventory:
 Illustrating different methods for individual participant data
 meta-analytic structural equation modeling. *Research Synthesis
 Methods*, *15*(6), 872–895. <https://doi.org/10.1002/jrsm.1735>
+
+</div>
+
+<div id="ref-Gu-Punjatewakupt-Sattayathamrongthian-etal-2026"
+class="csl-entry">
+
+Gu, F., Punjatewakupt, P., Sattayathamrongthian, M., Sriutaisuk, S.,
+Cheung, M. W.-L., Pornprasertmanit, S., & Zheng, Y. (2026). A simple
+analytic approach to regression with or without interaction terms:
+Integrating the covariance structure model and the delta method.
+*Psychometrika*, *91*(4), 1426–1478.
+<https://doi.org/10.1017/psy.2026.10107>
 
 </div>
 
@@ -1012,6 +1050,25 @@ distributions to aid interpretation. *Methods in Ecology and Evolution*,
 
 </div>
 
+<div id="ref-RajhWeber-Huber-Arendasy-2025" class="csl-entry">
+
+Rajh-Weber, H., Huber, S. E., & Arendasy, M. (2025). A practice-oriented
+guide to statistical inference in linear modeling for non-normal or
+heteroskedastic error distributions. *Behavior Research Methods*,
+*57*(12). <https://doi.org/10.3758/s13428-025-02801-4>
+
+</div>
+
+<div id="ref-RajhWeber-Huber-Arendasy-2026" class="csl-entry">
+
+Rajh-Weber, H., Huber, S. E., & Arendasy, M. (2026). Using
+heteroskedasticity-consistent standard errors and the bootstrap for
+linear regression analysis available in SPSS: A tutorial. *Advances in
+Methods and Practices in Psychological Science*, *9*(1).
+<https://doi.org/10.1177/25152459251408046>
+
+</div>
+
 <div id="ref-Ray-Du-Grodin-etal-2020" class="csl-entry">
 
 Ray, L. A., Du, H., Grodin, E., Bujarski, S., Meredith, L., Ho, D.,
@@ -1213,6 +1270,16 @@ style. *International Journal of Community Based Nursing & Midwifery*,
 
 </div>
 
+<div id="ref-Sun-Chang-Yang-etal-2026" class="csl-entry">
+
+Sun, R. W., Chang, F., Yang, W., Cheung, S. F., & Cheung, S.-H. (2026).
+<span class="nocase">betaselectr</span>: Selective (and proper)
+standardization in structural equation models. *Multivariate Behavioral
+Research*, *61*(5), 961–966.
+<https://doi.org/10.1080/00273171.2026.2672692>
+
+</div>
+
 <div id="ref-Tofighi-Kelley-2020b" class="csl-entry">
 
 Tofighi, D., & Kelley, K. (2020a). Improved inference in mediation
@@ -1267,6 +1334,15 @@ systematic review of detection validity, and relationship between
 transdermal and breath alcohol concentration and influencing factors.
 *Alcoholism: Clinical and Experimental Research*, *44*(10), 1918–1932.
 <https://doi.org/10.1111/acer.14432>
+
+</div>
+
+<div id="ref-vanGinkel-2020" class="csl-entry">
+
+<span class="nocase">van Ginkel, J. R.</span> (2020). Standardized
+regression coefficients and newly proposed estimators for $R^2$ in
+multiply imputed data. *Psychometrika*, *85*(1), 185–205.
+<https://doi.org/10.1007/s11336-020-09696-4>
 
 </div>
 
