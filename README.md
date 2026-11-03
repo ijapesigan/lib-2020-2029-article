@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-02
+2026-11-03
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -37,6 +37,14 @@ Adolf, J. K., Loossens, T., Tuerlinckx, F., & Ceulemans, E. (2021).
 Optimal sampling rates for reliable continuous-time first-order
 autoregressive and vector autoregressive modeling. *Psychological
 Methods*, *26*(6), 701–718. <https://doi.org/10.1037/met0000398>
+
+</div>
+
+<div id="ref-Alter-Counsell-2023" class="csl-entry">
+
+Alter, U., & Counsell, A. (2023). Determining negligible associations in
+regression. *The Quantitative Methods for Psychology*, *19*(1), 59–83.
+<https://doi.org/10.20982/tqmp.19.1.p059>
 
 </div>
 
@@ -148,6 +156,14 @@ Brose, A., Neubauer, A. B., & Schmiedek, F. (2022). Integrating state
 dynamics and trait change: A tutorial using the example of stress
 reactivity and change in well-being. *European Journal of Personality*,
 *36*(2), 180–199. <https://doi.org/10.1177/08902070211014055>
+
+</div>
+
+<div id="ref-Campbell-2024" class="csl-entry">
+
+Campbell, H. (2024). Equivalence testing for linear regression.
+*Psychological Methods*, *29*(1), 88–98.
+<https://doi.org/10.1037/met0000596>
 
 </div>
 
@@ -558,6 +574,16 @@ Reports*, *128*(3), 1861–1886.
 Jak, S., & Cheung, M. W.-L. (2020). Meta-analytic structural equation
 modeling with moderating effects on SEM parameters. *Psychological
 Methods*, *25*(4), 430–455. <https://doi.org/10.1037/met0000245>
+
+</div>
+
+<div id="ref-Kang-Jones-Armstrong-etal-2023" class="csl-entry">
+
+Kang, K., Jones, M. T., Armstrong, K., Avery, S., McHugo, M., Heckers,
+S., & Vandekar, S. (2023). Accurate confidence and Bayesian interval
+estimation for non-centrality parameters and effect size indices.
+*Psychometrika*, *88*(1), 253–273.
+<https://doi.org/10.1007/s11336-022-09899-x>
 
 </div>
 
@@ -1364,6 +1390,14 @@ multiply imputed data. *Psychometrika*, *85*(1), 185–205.
 
 </div>
 
+<div id="ref-Vandekar-Tao-Blume-2020" class="csl-entry">
+
+Vandekar, S., Tao, R., & Blume, J. (2020). A robust effect size index.
+*Psychometrika*, *85*(1), 232–246.
+<https://doi.org/10.1007/s11336-020-09698-2>
+
+</div>
+
 <div id="ref-Wang-Fang-Bergeman-2026" class="csl-entry">
 
 Wang, L., Fang, Y., & Bergeman, C. S. (2026). Dynamic modeling with
@@ -1445,6 +1479,14 @@ Zhang, M. X., Ku, L., Wu, A. M. S., Yu, S. M., & Pesigan, I. J. A.
 among Chinese university students: The mediating role of drinking
 motivations. *Substance Use & Misuse*, *55*(1), 156–166.
 <https://doi.org/10.1080/10826084.2019.1658784>
+
+</div>
+
+<div id="ref-Zhang-Muscatello-Jones-etal-2026" class="csl-entry">
+
+Zhang, X., Muscatello, R., Jones, M., Corbett, B., & Vandekar, S.
+(2026). *Asymptotic distribution of robust effect size index*.
+<https://doi.org/10.48550/arXiv.2601.19004>
 
 </div>
 
