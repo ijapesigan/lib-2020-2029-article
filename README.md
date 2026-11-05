@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-03
+2026-11-05
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -28,6 +28,17 @@ W., & Taylor, J. M. G. (2025). A continuous-time dynamic factor model
 for intensive longitudinal data arising from mobile health studies.
 *Psychometrika*, *90*(3), 1175–1196.
 <https://doi.org/10.1017/psy.2025.10023>
+
+</div>
+
+<div id="ref-AbrilPla-Andreani-Carroll-etal-2023" class="csl-entry">
+
+Abril-Pla, O., Andreani, V., Carroll, C., Dong, L., Fonnesbeck, C. J.,
+Kochurov, M., Kumar, R., Lao, J., Luhmann, C. C., Martin, O. A.,
+Osthege, M., Vieira, R., Wiecki, T., & Zinkov, R. (2023). PyMC: A
+modern, and comprehensive probabilistic programming framework in Python.
+*PeerJ Computer Science*, *9*, e1516.
+<https://doi.org/10.7717/peerj-cs.1516>
 
 </div>
 
@@ -347,6 +358,15 @@ Pipiras, V., & Gates, K. M. (2022). A square-root second-order extended
 Kalman filtering approach for estimating smoothly time-varying
 parameters. *Multivariate Behavioral Research*, *57*(1), 134–152.
 <https://doi.org/10.1080/00273171.2020.1815513>
+
+</div>
+
+<div id="ref-Fisher-Kim-Fredrickson-etal-2022" class="csl-entry">
+
+Fisher, Z. F., Kim, Y., Fredrickson, B. L., & Pipiras, V. (2022).
+Penalized estimation and forecasting of multiple subject intensive
+longitudinal data. *Psychometrika*, *87*(2), 403–431.
+<https://doi.org/10.1007/s11336-021-09825-7>
 
 </div>
 
@@ -1395,6 +1415,16 @@ multiply imputed data. *Psychometrika*, *85*(1), 185–205.
 Vandekar, S., Tao, R., & Blume, J. (2020). A robust effect size index.
 *Psychometrika*, *85*(1), 232–246.
 <https://doi.org/10.1007/s11336-020-09698-2>
+
+</div>
+
+<div id="ref-Vehtari-Gelman-Simpson-etal-2021" class="csl-entry">
+
+Vehtari, A., Gelman, A., Simpson, D., Carpenter, B., & Bürkner, P.-C.
+(2021). Rank-normalization, folding, and localization: An improved
+$\widehat{R}$ for assessing convergence of MCMC (with discussion).
+*Bayesian Analysis*, *16*(2), 667–718.
+<https://doi.org/10.1214/20-ba1221>
 
 </div>
 
