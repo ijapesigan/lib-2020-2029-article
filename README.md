@@ -621,6 +621,15 @@ estimation for non-centrality parameters and effect size indices.
 
 </div>
 
+<div id="ref-Keng-Tong-Yan-etal-2021" class="csl-entry">
+
+Keng, S.-L., Tong, E. M. W., Yan, E. T. L., Ebstein, R. P., & Lai, P.-S.
+(2021). Effects of mindfulness-based stress reduction on affect
+dynamics: A randomized controlled trial. *Mindfulness*, *12*(6),
+1490–1501. <https://doi.org/10.1007/s12671-021-01617-5>
+
+</div>
+
 <div id="ref-Kraiss-Vaessen-Klooster-2024" class="csl-entry">
 
 <span class="nocase">Kraiss, J. T., Vaessen, T., & ten Klooster, P.
@@ -1232,6 +1241,14 @@ Rowland, Z., & Wenzel, M. (2020). Mindfulness and affect-network
 density: Does mindfulness facilitate disengagement from affective
 experiences in daily life? *Mindfulness*, *11*(5), 1253–1266.
 <https://doi.org/10.1007/s12671-020-01335-4>
+
+</div>
+
+<div id="ref-Rowland-Wenzel-Kubiak-2020" class="csl-entry">
+
+Rowland, Z., Wenzel, M., & Kubiak, T. (2020). A mind full of happiness:
+How mindfulness shapes affect dynamics in daily life. *Emotion*,
+*20*(3), 436–451. <https://doi.org/10.1037/emo0000562>
 
 </div>
 
