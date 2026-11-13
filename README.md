@@ -1,7 +1,7 @@
 lib-2020-2029-article
 ================
 Ivan Jacob Agaloos Pesigan
-2026-11-07
+2026-11-13
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 
@@ -44,6 +44,15 @@ Adolf, J. K., Loossens, T., Tuerlinckx, F., & Ceulemans, E. (2021).
 Optimal sampling rates for reliable continuous-time first-order
 autoregressive and vector autoregressive modeling. *Psychological
 Methods*, *26*(6), 701–718. <https://doi.org/10.1037/met0000398>
+
+</div>
+
+<div id="ref-Albers-Bringmann-2020" class="csl-entry">
+
+Albers, C. J., & Bringmann, L. F. (2020). Inspecting gradual and abrupt
+changes in emotion dynamics with the time-varying change point
+autoregressive model. *European Journal of Psychological Assessment*,
+*36*(3), 492–499. <https://doi.org/10.1027/1015-5759/a000589>
 
 </div>
 
@@ -336,6 +345,15 @@ Bringmann, L. F.</span> (2025). Modeling categorical time-to-event data:
 The example of social interaction dynamics captured with
 event-contingent experience sampling methods. *Psychological Methods*,
 *30*(6), 1345–1363. <https://doi.org/10.1037/met0000598>
+
+</div>
+
+<div id="ref-Falkenstrom-Solomonov-Rubel-2026" class="csl-entry">
+
+Falkenström, F., Solomonov, N., & Rubel, J. (2026). To detrend, or not
+to detrend, that is the question? The effects of detrending on
+cross-lagged effects in panel models. *Psychological Methods*, *31*(2),
+252–270. <https://doi.org/10.1037/met0000632>
 
 </div>
 
